@@ -56,7 +56,7 @@ Tabulation for Open Circuit Test
  |3|120|0.18|
  |4|126|0.20|
  |5|129|0.21|
- |6|133|0.23|
+ |6|133|0.23|
 
 Tabulation for Load Test:
 
@@ -67,7 +67,7 @@ Tabulation for Load Test:
  |3|3.2|208|
  |4|3.6|205|
  |5|5.5|200|
- |6|7|195|
+ |6|7|195|
 
 Model graph:
 
